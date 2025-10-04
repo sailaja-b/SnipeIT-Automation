@@ -4,7 +4,7 @@ using Microsoft.Playwright;
 using System.Threading.Tasks;
 using SnipeITProject.Pages;
 
-namespace SnipeITProject.Tests
+namespace SnipeITProject.Test
 {
     public class LoginTests
     {

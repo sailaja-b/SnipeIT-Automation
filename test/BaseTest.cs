@@ -1,6 +1,7 @@
 using Microsoft.Playwright;
 using NUnit.Framework;
 using SnipeITProject.Utilities; // for PlaywrightDriver
+
 namespace SnipeITProject.Test
 {
     public class BaseTest
